@@ -16,3 +16,10 @@
 * _K_ Einkauf/Arzt/Amt/weitere Dienstleistungen
 * _W_ Personenwirtschaftsverkehr (PWiV)
 * _F_ Freizeitverkehr
+
+
+### Modellierungstypen
+
+* __hr__ Hochrechnung
+* __gm__ Gravitationsmodell
+* __fr__ Furness-Modell
