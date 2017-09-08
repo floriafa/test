@@ -11,6 +11,17 @@
     * Einkauf, Arzt, Amt, usw...
 
 3. Modal-Split aller VBs
+    wieder Frage nach Granularität? (Zweck, Alter)
+    abhängig von Netzveränderung
+    
+4. 3 Modellierungstypen für Prognose 
+    * Hochrechnung
+    * Gravitationsmodell (nur gm kann veränderte Reisezeiten berücksichtigen)
+    * Furness (Gravitation mittels beobachteter Verkehrsbewegungen)
+    
+5. Zusammenrechnen aller Ergebnismatrizen und Aggregation
+
+6. Schönen Output generieren
 
 # Codierungstabelle
 
