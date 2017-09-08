@@ -2,12 +2,14 @@
 
 1. Bestandsmatrizen
    wo sind sie? was gibt es? welche Granularität haben sie? (Typ, Zweck, Alter)
+
 2. Listen der Veränderungen in den VBs im Prognosejahr:
     * Wohnbevölkerung
     * Arbeitsplätze
     * Freizeiteinrichtungen
     * Schulen und Uniplätze
     * Einkauf, Arzt, Amt, usw...
+
 3. Modal-Split aller VBs
 
 # Codierungstabelle
